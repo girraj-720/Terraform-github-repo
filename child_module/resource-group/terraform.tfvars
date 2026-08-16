@@ -15,4 +15,8 @@ rgs = {
     name     = "lovely-singh"
     location = "centralindia"
   }
+  rg4 = {
+    name     = "satyam-singh"
+    location = "centralindia"
+  }
 }
