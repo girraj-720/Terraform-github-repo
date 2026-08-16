@@ -16,3 +16,8 @@ resource "azurerm_resource_group" "rg" {
   name     = "bablyon-rg"
   location = "centralindia"
 }
+
+resource "azurerm_resource_group" "rg1" {
+  name     = "bablyon-rg1"
+  location = "centralindia"
+}
