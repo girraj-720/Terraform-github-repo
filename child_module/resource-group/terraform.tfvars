@@ -5,8 +5,13 @@ rgs = {
     name     = "ramu"
     location = "centralindia"
   }
+  
   rg2 = {
 
+    name     = "syamu"
+    location = "centralindia"
+  }
+  rg3 = {
     name     = "lovely-singh"
     location = "centralindia"
   }
