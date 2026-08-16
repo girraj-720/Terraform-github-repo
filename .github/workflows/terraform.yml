@@ -17,7 +17,7 @@ jobs:
 
     defaults:
       run:
-        working-directory: D:\githubrepo\Terraform-github-repo
+        working-directory: D:\githubrepo\Terraform-github-repo\child_module\resource-group
 
     steps:
       - name: Checkout Code
